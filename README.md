@@ -6,7 +6,7 @@ You can check my certificate [here](https://freecodecamp.org/certification/fcc2a
 
 In this project I analyze a dataset of the global average sea level change since 1880, and use the data to predict the sea level change through year 2050.
 
-Unfortunately, the sea level is predicted to increase from about 7inches in 2000 to 15inches by 2050. It is a considerably higher than average increase considering it has been steadly and slowly increasing about 2 inches every 25 years since 1875, which is the timeframe of the data we have.
+Unfortunately, the sea level is predicted to increase from about 7inches in 2000 to 15inches by 2050. It is a considerably higher than average increase considering it has been steadly and slowly increasing about 2 inches every 25 years since 1880, which is the timeframe of the data we have.
 This means that there is an acceleration of the sea level rise and something needs to be done. Check out [this](https://www.plymouth.ac.uk/news/pr-opinion/sea-level-rise-is-inevitable-we-need-to-adapt-to-avoid-the-greatest-harm#:~:text=So%20what%20can%20be%20done,enhanced%20coastal%20erosion%20and%20flooding) article by the University of Plymouth to learn more about the causes of sea level rise and what can be done.
 
 Ps This result corroborates [NASA's prediction](https://climate.nasa.gov/news/3232/nasa-study-rising-sea-level-could-exceed-estimates-for-us-coasts/#:~:text=By%202050%2C%20sea%20level%20along,three%20decades%20of%20satellite%20observations).
