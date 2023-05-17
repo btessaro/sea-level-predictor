@@ -1,4 +1,4 @@
-# sea-level-predictor
+# Sea Level Predictor 🌊 
 
 Final project for the **Data Analysis with Python** course offered by [Free Code Camp](https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course). 
 
@@ -9,4 +9,4 @@ In this project I analyze a dataset of the global average sea level change since
 Unfortunately, the sea level is predicted to increase from about 7inches in 2000 to 15inches by 2050. It is a considerably higher than average increase considering it has been steadly and slowly increasing about 2 inches every 25 years since 1875, which is the timeframe of the data we have.
 This means that there is an acceleration of increase and something needs to be done. 
 
-Ps This result corroborates [NASA's prediction] (https://climate.nasa.gov/news/3232/nasa-study-rising-sea-level-could-exceed-estimates-for-us-coasts/#:~:text=By%202050%2C%20sea%20level%20along,three%20decades%20of%20satellite%20observations).
+Ps This result corroborates [NASA's prediction](https://climate.nasa.gov/news/3232/nasa-study-rising-sea-level-could-exceed-estimates-for-us-coasts/#:~:text=By%202050%2C%20sea%20level%20along,three%20decades%20of%20satellite%20observations).
